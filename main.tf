@@ -90,9 +90,9 @@ resource "azurerm_linux_virtual_machine" "main" {
     caching              = "ReadWrite"
   }
   tags = {
-    git_commit           = "993578ddd45b36a3ea24ffd0ce2ac174ff18a33d"
+    git_commit           = "20e75e3482e02f4f90f5db5edda8adb0b6f5e340"
     git_file             = "main.tf"
-    git_last_modified_at = "2023-01-25 12:46:59"
+    git_last_modified_at = "2023-01-25 09:10:07"
     git_last_modified_by = "59680997+pan258@users.noreply.github.com"
     git_modifiers        = "59680997+pan258"
     git_org              = "pan258"
